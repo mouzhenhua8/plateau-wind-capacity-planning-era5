@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "Capacity-Efficient Wind-Power Planning for Plateau Energy Transition"
+message: "If you use this repository, please cite the associated manuscript."
+authors:
+  - family-names: "Miao"
+    given-names: "Zhenhua"
+  - family-names: "Zhou"
+    given-names: "Shuang"
+  - family-names: "Ma"
+    given-names: "Shouxiao"
+year: 2026
+doi: "to be updated after archival release"
